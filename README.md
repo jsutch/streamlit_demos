@@ -1,3 +1,3 @@
-# Some tutorials and demos using streamlit, pandas and python
+# Tutorials and demos using streamlit, pandas and python
 
 - Visualizing AirBnB NYC listings
